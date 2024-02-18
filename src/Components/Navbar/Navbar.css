@@ -1,0 +1,12 @@
+.navbar {
+    height: 70px;
+    font-size: 18px;
+}
+
+.navbar .navbar-brand {
+    padding-left: 15px;
+}
+
+.navbar ul li {
+    padding-right: 16px;
+}
